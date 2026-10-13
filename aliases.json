@@ -1,0 +1,10 @@
+{
+  "roots": [
+    "~/code"
+  ],
+  "aliases": {
+    "blog": "~/code/my-blog",
+    "api": "~/code/backend-api",
+    "mobile-app": "~/code/mobile/app"
+  }
+}
