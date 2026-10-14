@@ -4,7 +4,7 @@ One Claude Code (or Codex) chat that runs all your other Claude Code and Codex c
 
 You talk only to the orchestrator. It starts an agent in the right project folder, gives it one clear task, waits in the background, and reports back in one line per agent. When an agent needs your approval, the orchestrator shows you the question. It does not approve things for you.
 
-📺 Video: _coming soon_ <!-- VIDEO_LINK -->
+📺 Video: [Steal My Setup: One Claude Chat Manages 100 AI Agents](https://youtu.be/pr39_uid2Ew)
 · Channel: [@byashanant on YouTube](https://www.youtube.com/@byashanant)
 
 ```mermaid
